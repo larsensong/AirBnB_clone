@@ -23,3 +23,10 @@ Destroy an object
 ## :warning: Prerequisites
 
 
+* Must have `git` installed
+
+* Must have repository cloned
+
+* Must have `python` installed
+
+
