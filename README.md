@@ -1,6 +1,7 @@
 ##  🥇: 0x00. AirBnB clone - The console 🥇:
      
 The RESTful API is the third segment of the AirBnB project at ALX software engineering  School that will collectively cover fundamental concepts of higher level programming. The goal  of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A RESTful API is created in this segment to manage requests for the  AirBnB(HBnB) website.
+In this project, we will be developing the console for our airbnb project. This console will be written in Python3 and will be used for communication between our webapp, static content, databases, and filesystem.
 
 
  ## Functionalities of this command interpreter:
